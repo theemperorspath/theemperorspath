@@ -49,8 +49,13 @@ When I'm not hunting bugs or conducting penetration tests, you'll find me on the
       <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-  </div>
+      <img src="https://img.shields.io/badge/XSS-E34F26?style=for-the-badge&logo=javascript&logoColor=white&color=E34F26" alt="XSS" />
+      <img src="https://img.shields.io/badge/SQL_Injection-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="SQL Injection" />
+      <img src="https://img.shields.io/badge/CSRF-FF6347?style=for-the-badge&logo=html5&logoColor=white&color=FF6347" alt="CSRF" />
+      <img src="https://img.shields.io/badge/SSRF-9B59B6?style=for-the-badge&logo=safari&logoColor=white&color=9B59B6" alt="SSRF" />
+      <img src="https://img.shields.io/badge/IDOR-3498DB?style=for-the-badge&logo=json&logoColor=white&color=3498DB" alt="IDOR" />
+      <img src="https://img.shields.io/badge/XXE-E67E22?style=for-the-badge&logo=xml&logoColor=white&color=E67E22" alt="XXE" />
+      <img src="https://img.shields.io/badge/LFI/RFI-2ECC71?style=for-the-badge&logo=php&logoColor=white&color=2ECC71" alt="LFI/RFI" />
 </div>
 
 ---
