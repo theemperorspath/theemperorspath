@@ -51,6 +51,15 @@ When I'm not hunting bugs or conducting penetration tests, you'll find me on the
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
 </div>
 
+## Beyond Cybersecurity
+
+When I'm not in front of a terminal, I'm training and competing in **Mixed Martial Arts**. The parallels between combat sports and cybersecurity are striking:
+
+- **Strategy** over brute force
+- **Continuous learning** and adaptation
+- **Mental resilience** under pressure
+- **Respect** for your craft and opponents
+
 ---
 ## Attack Techniques & Specializations
 
@@ -92,18 +101,6 @@ When I'm not hunting bugs or conducting penetration tests, you'll find me on the
 <img src="https://img.shields.io/badge/Business_Logic-FF9800?style=for-the-badge&logo=codeigniter&logoColor=white&color=FF9800" alt="Business Logic Flaws" />
 <img src="https://img.shields.io/badge/Race_Conditions-FF1744?style=for-the-badge&logo=clock&logoColor=white&color=FF1744" alt="Race Conditions" />
 </p>
----
-
-## Beyond Cybersecurity
-
-When I'm not in front of a terminal, I'm training and competing in **Mixed Martial Arts**. The parallels between combat sports and cybersecurity are striking:
-
-- **Strategy** over brute force
-- **Continuous learning** and adaptation
-- **Mental resilience** under pressure
-- **Respect** for your craft and opponents
-
----
 
 ## Let's Connect
 
