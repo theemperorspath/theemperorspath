@@ -68,6 +68,4 @@ Got questions about:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=theemperorspath&color=00f7ff&style=flat-square)
-
 </div>
