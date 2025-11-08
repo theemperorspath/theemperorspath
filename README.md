@@ -14,7 +14,6 @@ _______       .___
 
 **Bug Bounty Hunter** • **Red Teamer** • **Penetration Tester** • **CISO** • **MMA Fighter**
 
-</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Red+Teamer;Penetration+Tester;CISO;Combat+Sports+Athlete" alt="Typing SVG" />
 
