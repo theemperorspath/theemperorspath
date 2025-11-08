@@ -49,17 +49,49 @@ When I'm not hunting bugs or conducting penetration tests, you'll find me on the
       <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/XSS-E34F26?style=for-the-badge&logo=javascript&logoColor=white&color=E34F26" alt="XSS" />
-      <img src="https://img.shields.io/badge/SQL_Injection-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="SQL Injection" />
-      <img src="https://img.shields.io/badge/CSRF-FF6347?style=for-the-badge&logo=html5&logoColor=white&color=FF6347" alt="CSRF" />
-      <img src="https://img.shields.io/badge/SSRF-9B59B6?style=for-the-badge&logo=safari&logoColor=white&color=9B59B6" alt="SSRF" />
-      <img src="https://img.shields.io/badge/IDOR-3498DB?style=for-the-badge&logo=json&logoColor=white&color=3498DB" alt="IDOR" />
-      <img src="https://img.shields.io/badge/XXE-E67E22?style=for-the-badge&logo=xml&logoColor=white&color=E67E22" alt="XXE" />
-      <img src="https://img.shields.io/badge/LFI/RFI-2ECC71?style=for-the-badge&logo=php&logoColor=white&color=2ECC71" alt="LFI/RFI" />
 </div>
 
 ---
+## Attack Techniques & Specializations
 
+### Web Application Vulnerabilities
+<p>
+<img src="https://img.shields.io/badge/XSS-E34F26?style=for-the-badge&logo=javascript&logoColor=white&color=E34F26" alt="XSS" />
+<img src="https://img.shields.io/badge/SQL_Injection-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="SQL Injection" />
+<img src="https://img.shields.io/badge/NoSQL_Injection-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D" alt="NoSQL Injection" />
+<img src="https://img.shields.io/badge/Command_Injection-212121?style=for-the-badge&logo=powershell&logoColor=white&color=212121" alt="Command Injection" />
+<img src="https://img.shields.io/badge/LFI/RFI-2ECC71?style=for-the-badge&logo=php&logoColor=white&color=2ECC71" alt="LFI/RFI" />
+<img src="https://img.shields.io/badge/Path_Traversal-4CAF50?style=for-the-badge&logo=files&logoColor=white&color=4CAF50" alt="Path Traversal" />
+</p>
+
+### Server-Side Attacks
+<p>
+<img src="https://img.shields.io/badge/SSRF-9B59B6?style=for-the-badge&logo=safari&logoColor=white&color=9B59B6" alt="SSRF" />
+<img src="https://img.shields.io/badge/Cache_Poisoning-5C6BC0?style=for-the-badge&logo=cloudflare&logoColor=white&color=5C6BC0" alt="Cache Poisoning" />
+<img src="https://img.shields.io/badge/Subdomain_Takeover-00897B?style=for-the-badge&logo=dns&logoColor=white&color=00897B" alt="Subdomain Takeover" />
+</p>
+
+### Client-Side Attacks
+<p>
+<img src="https://img.shields.io/badge/CSRF-FF6347?style=for-the-badge&logo=html5&logoColor=white&color=FF6347" alt="CSRF" />
+<img src="https://img.shields.io/badge/CORS_Misconfiguration-607D8B?style=for-the-badge&logo=mozilla&logoColor=white&color=607D8B" alt="CORS Misconfiguration" />
+</p>
+
+### Access Control & Authentication
+<p>
+<img src="https://img.shields.io/badge/IDOR-3498DB?style=for-the-badge&logo=json&logoColor=white&color=3498DB" alt="IDOR" />
+<img src="https://img.shields.io/badge/Broken_Auth-673AB7?style=for-the-badge&logo=auth0&logoColor=white&color=673AB7" alt="Broken Auth" />
+<img src="https://img.shields.io/badge/Access_Control-D32F2F?style=for-the-badge&logo=shield&logoColor=white&color=D32F2F" alt="Access Control" />
+<img src="https://img.shields.io/badge/Privilege_Escalation-C62828?style=for-the-badge&logo=linux&logoColor=white&color=C62828" alt="Privilege Escalation" />
+<img src="https://img.shields.io/badge/JWT_Attacks-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&color=000000" alt="JWT Attacks" />
+<img src="https://img.shields.io/badge/2FA_Bypass-FFC107?style=for-the-badge&logo=google-authenticator&logoColor=black&color=FFC107" alt="2FA Bypass" />
+</p>
+
+### Logic & Race Conditions
+<p>
+<img src="https://img.shields.io/badge/Business_Logic-FF9800?style=for-the-badge&logo=codeigniter&logoColor=white&color=FF9800" alt="Business Logic Flaws" />
+<img src="https://img.shields.io/badge/Race_Conditions-FF1744?style=for-the-badge&logo=clock&logoColor=white&color=FF1744" alt="Race Conditions" />
+</p>
 ---
 
 ## Beyond Cybersecurity
