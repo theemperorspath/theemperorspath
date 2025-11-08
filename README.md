@@ -3,7 +3,15 @@
 # Hey, I'm Jackson!
 
 *also known as* **0days**
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff00,100:003300&height=150&section=header&text=0days&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=55&desc=Hacking%20the%20Planet&descAlignY=75&descAlign=50" />
+
+```
+██████╗ ██████╗  █████╗ ██╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝
+██████╔╝██║  ██║███████║ ╚████╔╝ ███████╗
+██╔═══╝ ██║  ██║██╔══██║  ╚██╔╝  ╚════██║
+██║     ██████╔╝██║  ██║   ██║   ███████║
+╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
 
 
 
