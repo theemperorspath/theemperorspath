@@ -3,16 +3,8 @@
 # Hey, I'm Jackson!
 
 *also known as* **0days**
-```
-_______       .___                    
-\   _  \    __| _/____  ___.__. ______
-/  /_\  \  / __ |\__  \<   |  |/  ___/
-\  \_/   \/ /_/ | / __ \\___  |\___ \ 
- \_____  /\____ |(____  / ____/____  >
-       \/      \/     \/\/         \/ 
-```
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff00,100:003300&height=150&section=header&text=0days&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=55&desc=Hacking%20the%20Planet&descAlignY=75&descAlign=50" />
 
-**Bug Bounty Hunter** • **Red Teamer** • **Penetration Tester** • **CISO** • **MMA Fighter**
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Red+Teamer;Penetration+Tester;CISO;Combat+Sports+Athlete" alt="Typing SVG" />
