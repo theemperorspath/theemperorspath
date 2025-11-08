@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Jackson
+# Hey, I'm Jackson
 
 ### Also known as **0days**
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🎯 About Me
+## About Me
 
 **16 years old** | **3+ years in cybersecurity** | Making the internet safer, one vulnerability at a time.
 
@@ -20,7 +20,7 @@ When I'm not hunting bugs or conducting penetration tests, you'll find me on the
 
 ---
 
-## 💼 What I Do
+## What I Do
 ```ascii
 ┌─────────────────────────────────────────┐
 │  🎯 Bug Bounty Hunting                  │
@@ -34,7 +34,7 @@ I specialize in finding vulnerabilities before the bad guys do. Whether it's web
 
 ---
 
-## 🥋 Beyond Cybersecurity
+## Beyond Cybersecurity
 
 When I'm not in front of a terminal, I'm training and competing in **Mixed Martial Arts**. The parallels between combat sports and cybersecurity are striking:
 
@@ -45,7 +45,7 @@ When I'm not in front of a terminal, I'm training and competing in **Mixed Marti
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 I'm passionate about helping others break into cybersecurity and sharing knowledge with the community. I **personally read and respond** to every comment and message—so don't hesitate to reach out!
 
