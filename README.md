@@ -2,7 +2,19 @@
 
 # Hey, I'm Jackson!
 
-### Also known as **0days**
+*also known as* **0days**
+```
+_______       .___                    
+\   _  \    __| _/____  ___.__. ______
+/  /_\  \  / __ |\__  \<   |  |/  ___/
+\  \_/   \/ /_/ | / __ \\___  |\___ \ 
+ \_____  /\____ |(____  / ____/____  >
+       \/      \/     \/\/         \/ 
+```
+
+**Bug Bounty Hunter** • **Red Teamer** • **Penetration Tester** • **CISO** • **MMA Fighter**
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Red+Teamer;Penetration+Tester;CISO;Combat+Sports+Athlete" alt="Typing SVG" />
 
