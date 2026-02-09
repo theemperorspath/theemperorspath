@@ -23,7 +23,7 @@ _______        .___
 
 ## About Me
 
-**17 years old** | **3+ years in cybersecurity** | Making the internet a safer place.
+**17 years old** | **4+ years in cybersecurity** | Making the internet a safer place.
 
 I started my journey in cybersecurity at **age 13** and haven't looked back since. My mission is simple: **democratize red teaming** and empower individuals and organizations to build better defenses. I believe that through education and awareness, we can collectively create a more secure digital landscape.
 
